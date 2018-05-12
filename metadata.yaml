@@ -1,0 +1,32 @@
+_repo: Plato-s-Doctrine-respecting-the-rotation-of-the-Earth-and-Aristotle-s-Comment-upon-that-Doctr__40439
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grote, George
+    birthdate: 1794
+    deathdate: 1871
+    gutenberg_agent_id: '4168'
+    url: http://www.gutenberg.org/2009/agents/4168
+    wikipedia: http://en.wikipedia.org/wiki/George_Grote
+description: ''
+gutenberg_issued: '2012-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40439'
+  lccn: 05029509
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aristotle, 384 BC-322 BC'
+- !lcsh 'Earth (Planet) -- Rotation'
+- !lcsh 'Plato. Timaeus'
+- !lcc 'QB'
+- !lcsh 'Astronomy, Greek'
+title: Plato's Doctrine Respecting the Rotation of the Earth and Aristotle's Comment
+  Upon That Doctrine
+url: http://www.gutenberg.org/ebooks/40439
