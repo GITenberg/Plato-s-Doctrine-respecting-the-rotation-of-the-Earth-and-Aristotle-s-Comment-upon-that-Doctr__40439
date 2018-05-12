@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4168
     wikipedia: http://en.wikipedia.org/wiki/George_Grote
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40439#Plato-s-Doctrine-respecting-the-rotation-of-the-Earth-and-Aristotle-s-Comment-upon-that-Doctr_
 gutenberg_issued: '2012-08-07'
 gutenberg_type: Text
 identifiers:
